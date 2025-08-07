@@ -1,4 +1,4 @@
 {
-"_base": "https://raw.githubusercontent.com/deformat-records/breaks/oldschool-180/main/",
-"breaks": ["01.wav","02.wav","03.wav","04.wav","05.wav"]
+  "_base": "https://raw.githubusercontent.com/deformat-records/strudel-kits/main/breaks/oldschool-180/",
+  "breaks": ["01.wav","02.wav","03.wav","04.wav","05.wav"]
 }
