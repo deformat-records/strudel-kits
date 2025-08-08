@@ -1,6 +1,6 @@
 {
-  "_base": "https://raw.githubusercontent.com/deformat-records/breaks/amen-180/main/",
-  "breaks": [
+  "_base": "https://raw.githubusercontent.com/deformat-records/strudel-kits/main/breaks/amen-180/",
+  "amen": [
     "amen180-001.wav",
     "amen180-002.wav",
     "amen180-003.wav",
