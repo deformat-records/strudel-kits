@@ -1,12 +1,12 @@
 {
-  "_base": "https://raw.githubusercontent.com/deformat-records/strudel-kits/main/gabber-kicks/gabbermaster/merrikkick1",
+    "_base": "https://raw.githubusercontent.com/deformat-records/strudel-kits/main/gabber-kicks/gabbermaster/merrikkick1",
     "merrikkick1": [
-    "merrikkick1-001.wav",
-    "merrikkick1-002.wav",
-    "merrikkick1-003.wav",
-    "merrikkick1-004.wav",
-    "merrikkick1-005.wav",
-    "merrikkick1-006.wav",
-    "merrikkick1-007.wav",
-  ]
+        "merrikkick1-001.wav",
+        "merrikkick1-002.wav",
+        "merrikkick1-003.wav",
+        "merrikkick1-004.wav",
+        "merrikkick1-005.wav",
+        "merrikkick1-006.wav",
+        "merrikkick1-007.wav"
+    ]
 }

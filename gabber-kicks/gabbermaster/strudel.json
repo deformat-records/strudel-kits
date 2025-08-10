@@ -1,30 +1,30 @@
 {
-  "_base": "https://raw.githubusercontent.com/deformat-records/strudel-kits/main/gabber-kicks/gabbermaster",
-  "merrikkick1/merrikkick1": [
-    "merrikkick1/merrikkick1-001.wav",
-    "merrikkick1/merrikkick1-002.wav",
-    "merrikkick1/merrikkick1-003.wav",
-    "merrikkick1/merrikkick1-004.wav",
-    "merrikkick1/merrikkick1-005.wav",
-    "merrikkick1/merrikkick1-006.wav",
-    "merrikkick1/merrikkick1-007.wav",
-  ],
+    "_base": "https://raw.githubusercontent.com/deformat-records/strudel-kits/main/gabber-kicks/gabbermaster",
+    "merrikkick1/merrikkick1": [
+        "merrikkick1/merrikkick1-001.wav",
+        "merrikkick1/merrikkick1-002.wav",
+        "merrikkick1/merrikkick1-003.wav",
+        "merrikkick1/merrikkick1-004.wav",
+        "merrikkick1/merrikkick1-005.wav",
+        "merrikkick1/merrikkick1-006.wav",
+        "merrikkick1/merrikkick1-007.wav"
+    ],
     "merrikkick2/merrikkick2": [
-    "merrikkick2/merrikkick2-001.wav",
-    "merrikkick2/merrikkick2-002.wav",
-    "merrikkick2/merrikkick2-003.wav",
-    "merrikkick2/merrikkick2-004.wav",
-    "merrikkick2/merrikkick2-005.wav",
-    "merrikkick2/merrikkick2-006.wav",
-    "merrikkick2/merrikkick2-007.wav",
-  ],
+        "merrikkick2/merrikkick2-001.wav",
+        "merrikkick2/merrikkick2-002.wav",
+        "merrikkick2/merrikkick2-003.wav",
+        "merrikkick2/merrikkick2-004.wav",
+        "merrikkick2/merrikkick2-005.wav",
+        "merrikkick2/merrikkick2-006.wav",
+        "merrikkick2/merrikkick2-007.wav"
+    ],
     "merrikkick3/merrikkick3": [
-    "merrikkick3/merrikkick3-001.wav",
-    "merrikkick3/merrikkick3-002.wav",
-    "merrikkick3/merrikkick3-003.wav",
-    "merrikkick3/merrikkick3-004.wav",
-    "merrikkick3/merrikkick3-005.wav",
-    "merrikkick3/merrikkick3-006.wav",
-    "merrikkick3/merrikkick3-007.wav",
-  ]
+        "merrikkick3/merrikkick3-001.wav",
+        "merrikkick3/merrikkick3-002.wav",
+        "merrikkick3/merrikkick3-003.wav",
+        "merrikkick3/merrikkick3-004.wav",
+        "merrikkick3/merrikkick3-005.wav",
+        "merrikkick3/merrikkick3-006.wav",
+        "merrikkick3/merrikkick3-007.wav"
+    ]
 }
