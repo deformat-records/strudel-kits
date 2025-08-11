@@ -15,7 +15,7 @@ Below is a list of the current kits available on this git
 This section contains various breaks (sorted by type and bpm)
 The following packs are avaiable:
 
-**Amen** (/breaks/amen-180)
+**Amen** (/breaks/amen-180) 
 **Oldschool** (/breaks/oldschool-180)
 
 ### Gabber Kicks (/gabber-kicks)
@@ -23,7 +23,7 @@ The following packs are avaiable:
 **GabberMaster** (/gabber-kicks/gabber-master)
     This entire subpackage has a multinstrument strudel.json
     This can be imported as one library, or each independantly.
-    
+
     Contains:
     * merrik kick 1 (/gabber-kicks/gabber-master/merrikkick1)
     * merrik kick 2 (/gabber-kicks/gabber-master/merrikkick2)
