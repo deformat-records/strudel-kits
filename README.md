@@ -29,6 +29,18 @@ The following packs are avaiable:
     * merrik kick 2 (/gabber-kicks/gabber-master/merrikkick2)
     * merrik kick 1 (/gabber-kicks/gabber-master/merrikkick3)
 
+### WAVE TABLES (/wt)
+
+This section is generated wavetables, as well as morphing wavetables
+These are all designed to be single cycle 16 bit wav with a 44100 sample rate 
+ and 1024 samples per cycle
+
+They were all generated with numpy, and the scripts used to generate them will
+be included eventually.
+
+**std** (/wt/std)
+    Standard waveforms, basic
+
 ## Whats Next/Todo
 
 Add more packs
