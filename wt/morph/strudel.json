@@ -1,10 +1,4 @@
 {
     "_base": "https://raw.githubusercontent.com/deformat-records/strudel-kits/main/wt/morph/",
-    "wt_morph": "wt_morph.wav",
-    "wt_pulse25": "wt_pulse25.wav",
-    "wt_saw": "wt_saw.wav",
-    "wt_sine": "wt_sine.wav",
-    "wt_sine_saw": "wt_sine_saw.wav",
-    "wt_square": "wt_square.wav",
-    "wt_triangle": "wt_triangle.wav"
+    "wt_morph": "wt_morph.wav"
 }
