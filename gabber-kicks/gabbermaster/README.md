@@ -11,3 +11,5 @@ There is 7 variations of each, eith variations affecting EQ and noise factor
 MerrikKick1 - An aggressive gabber kick that was a preset on GabberMaster
 MerrikKick2 - A deeper more classic oldschool gabber kick
 MerrikKick3 - A more aggressive gabber kick suitable for breakcore (try a lpf on it)
+MerrikKick4 - Another Gabber Kick
+MerrikKick5 - A fifth gabber kick, surprise surprise.

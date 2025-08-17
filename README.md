@@ -41,6 +41,41 @@ be included eventually.
 **std** (/wt/std)
     Standard waveforms, basic
 
+## Information Regarding Samples
+
+### BitRate of Samples:
+
+All samples will be in 44.1 kHz mono 16bit PCM 
+
+### Mastering of Samples:
+
+All samples will have a limited peak of -3db
+
+### Why this?
+
+Compatibility and usability. These parameters are usable on a wide variety of systems, 
+even down to trackers written in the 90s. 
+This will allow these samples to have use beyond strudel.cc. 
+This instantly makes these samples usable on the OG Polyend Tracker without any conversion, 
+and is also the format for bare_metal (a tracker which I am designing)
+
+### Edge Cases:
+
+In the event that sample packs do not meet this unified criteria, 
+it will explicitly written in the README.md file, as well as be included in the name.
+Stereo .wav files, or those with different sample rates will be expressed in both the 
+readme as well as the name, example drum6-48k-str would be a drum6 kit, 
+but sampled at 48k and in stereo.
+
+This is done similarly to how breakbeats/loops (will) state the bar 
+number in the case of not being a 2 bar long.
+
+### Please Note:
+
+This is a goal, not all work is perfect, and there is a chance some samples 
+may have missed these standards, do not hesitate to contact if this is the 
+case so it can be corrected.
+
 ## Whats Next/Todo
 
 Add more packs

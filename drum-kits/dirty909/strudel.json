@@ -1,0 +1,45 @@
+{
+    "_base": "https://raw.githubusercontent.com/deformat-records/strudel-kits/main/drum-kits/dirty909",
+    "dirty909_bd": [
+        "dirty909_bd-001.wav",
+        "dirty909_bd-002.wav",
+        "dirty909_bd-003.wav",
+        "dirty909_bd-004.wav"
+    ],
+    "dirty909_cp": [
+        "dirty909_cp-001.wav",
+        "dirty909_cp-002.wav",
+        "dirty909_cp-003.wav",
+        "dirty909_cp-004.wav"
+    ],
+    "dirty909_crash": [
+        "dirty909_crash-001.wav",
+        "dirty909_crash-002.wav",
+        "dirty909_crash-003.wav",
+        "dirty909_crash-004.wav"
+    ],
+    "dirty909_hh": [
+        "dirty909_hh-001.wav",
+        "dirty909_hh-002.wav"
+    ],
+    "dirty909_oh": [
+        "dirty909_oh-001.wav",
+        "dirty909_oh-002.wav"
+    ],
+    "dirty909_ride": [
+        "dirty909_ride-001.wav",
+        "dirty909_ride-002.wav",
+        "dirty909_ride-003.wav",
+        "dirty909_ride-004.wav"
+    ],
+    "dirty909_rim": [
+        "dirty909_rim-001.wav",
+        "dirty909_rim-002.wav"
+    ],
+    "dirty909_sd": [
+        "dirty909_sd-001.wav",
+        "dirty909_sd-002.wav",
+        "dirty909_sd-003.wav",
+        "dirty909_sd-004.wav"
+    ]
+}
